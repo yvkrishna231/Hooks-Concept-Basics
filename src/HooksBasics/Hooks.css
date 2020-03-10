@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+th {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+.totaldiv {
+  margin: 20px 70px;
+}
